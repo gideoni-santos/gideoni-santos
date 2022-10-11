@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Gideoni Santos 😁
 
  <div>
    <a href="https://github.com/gideoni-santos">
