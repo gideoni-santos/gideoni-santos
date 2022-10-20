@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gideoni Santos 😁
+## Bem-vindo(a) ao meu Perfil, me chamo Gideoni 😁
 
  <div>
    <a href="https://github.com/gideoni-santos">
