@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra saber mais sobre mim entre em contato! 
+  ### Pra saber mais sobre mim entre em contato!
  
 <div> 
   <a href = "mailto:gideonidev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
