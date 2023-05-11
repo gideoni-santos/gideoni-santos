@@ -3,7 +3,7 @@
 🔭 Sou estudante de Data Analytics<br>
 
 <div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=gideoni-santos&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=20B2AA&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=gideoni-santos&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=20B2AA&text_color=c9d1d9&bg_color=0d1117" alt="Gideoni Santos github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideoni-santos&layout=compact&hide_border=true&title_color=20B2AA&text_color=20B2AA&bg_color=0d1117" />
 </div>
 
