@@ -7,7 +7,7 @@
   <img width="41%" height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gideoni-santos&layout=compact&hide_border=true&title_color=20B2AA&text_color=20B2AA&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gideoni-santos&bg_color=0d1117&color=4679af&line=368ad3&point=94abff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gideoni-santos&bg_color=0d1117&color=4679af&line=368ad3&point=94abff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
