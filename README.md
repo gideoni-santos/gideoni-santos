@@ -9,9 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gideoni-santos&bg_color=0d1117&color=4679af&line=368ad3&point=94abff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=matplotlib) ![Python](https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=seaborn) ![PowerBI](https://img.shields.io/badge/powerbi-000?style=for-the-badge&logo=powerbi) ![Tableau](https://img.shields.io/badge/tableau-000?style=for-the-badge&logo=tableau) ![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql) ![PostGree](https://img.shields.io/badge/Postgree-000?style=for-the-badge&logo=postgree) 
 
 ## Entre em contato comigo<br>
 <div>
